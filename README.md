@@ -3,7 +3,7 @@
 Welcome to the repository of my personal portfolio website. This site demonstrates my proficiency in ReactJS and Tailwind CSS focusing on creating appealing and responsive web designs.
 
 **Code Output:**
-Please click [here](https://sushilkumar567.github.io/1-portfolio-website/) to view the live code output.
+Please click [here](https://sushilkumar567.github.io/01-portfolio-website/) to view the live code output.
 
 ## Key Highlights:
 
